@@ -6,8 +6,8 @@
 </div>
 <br/>
 <div>
-  <img height="180cm" alt="Riquelmo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RiquelmoFerreira&show_icons=true&theme=radical" />
-  <img height="180cm" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiquelmoFerreira&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180cm" width="430cm" alt="Riquelmo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RiquelmoFerreira&show_icons=true&theme=radical" /><br/>
+  <img height="180cm" width="430cm" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiquelmoFerreira&layout=compact&langs_count=16&theme=radical"/>
   </div>  
   
   <div style="display: inline_block"><br/>
