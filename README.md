@@ -1,4 +1,5 @@
 ### Hi there! I'm Riquelmo Ferreira 👋
+### Olá! Sou Riquelmo Ferreira 👋
 <div style="display: inline_block"><br/>
     <a href="https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US" target="_blank" rel="noreferrer noopener"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.kaggle.com/riquelmodf" target="_blank" rel="noreferrer noopener"><img align="center" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
